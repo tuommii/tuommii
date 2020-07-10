@@ -1,5 +1,5 @@
 <h4 align="center">
-	We are currently writing our own
+	I :heart: what I do<br><br>We are currently writing our own
 	✨ Shell ✨ from scratch
 	<br><br>
 </h4>
