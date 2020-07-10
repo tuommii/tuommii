@@ -1,6 +1,6 @@
 <h4 align="center">
 	We are currently writing our own
-	✨ Shell ✨
+	✨ Shell ✨ from scratch
 	<br><br>
 </h4>
 
