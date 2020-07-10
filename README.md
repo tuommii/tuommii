@@ -1,10 +1,11 @@
-<p align="center">
-	I’m currently working on ✨ _Shell_ ✨
+<h4 align="center">
+	We are currently doing our own
+	⚡✨ Shell ✨⚡
 	<br><br>
-</p>
+</h4>
 
 <p align="center">
-	<img width=400 src="shell.gif">
+	<img width=400 src="https://github.com/tuommii/tuommii/blob/master/shell.gif">
 </p>
 
 <!--
