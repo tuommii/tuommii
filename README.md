@@ -1,6 +1,6 @@
 <h4 align="center">
-	We are currently doing our own
-	⚡✨ Shell ✨⚡
+	We are currently writing our own
+	✨ Shell ✨
 	<br><br>
 </h4>
 
