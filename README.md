@@ -5,7 +5,7 @@
 </h4>
 
 <p align="center">
-	<img width=400 src="https://github.com/tuommii/tuommii/blob/master/shell.gif">
+	<img width=340 src="https://github.com/tuommii/tuommii/blob/master/shell.gif">
 </p>
 
 <!--
