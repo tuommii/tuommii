@@ -1,6 +1,6 @@
 <h4 align="center">
 	I :heart: what I do<br><br>We are currently writing our own
-	✨ shell ✨ from scratch and without help of the C:s Standard Library
+	✨ shell ✨ from scratch and without help of the C:s standard library
 	<br><br>
 </h4>
 
