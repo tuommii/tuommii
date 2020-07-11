@@ -1,10 +1,11 @@
-<p align="center">
-	I’m currently working on ✨ _Shell_ ✨
+<h4 align="center">
+	I :heart: what I do<br><br>We are currently writing our own
+	✨ Shell ✨ from scratch without help of the C:s Standard Library
 	<br><br>
-</p>
+</h4>
 
 <p align="center">
-	<img width=400 src="shell.gif">
+	<img width=340 src="https://github.com/tuommii/tuommii/blob/master/shell.gif">
 </p>
 
 <!--
