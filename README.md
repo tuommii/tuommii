@@ -8,6 +8,9 @@
 	<img width=340 src="https://github.com/tuommii/tuommii/blob/master/shell.gif">
 </p>
 
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuommii&show_icons=true&tcount_private=true&theme=dracula" alt="tuommii's github stats">
+</div>
 <!--
 **tuommii/tuommii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
